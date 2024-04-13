@@ -1,0 +1,14 @@
+[
+  {
+    "class_name": "友情鏈接",
+    "class_desc": "那些人，那些事",
+    "link_list": [
+      {
+        "name": "Butterfly 官方网站",
+        "link": "https://butterfly.js.org/",
+        "avatar": "https://jsd.012700.xyz/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg",
+        "descr": "🦋 A Hexo Theme: Butterfly"
+      }
+    ]
+  }
+]
